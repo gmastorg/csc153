@@ -1,0 +1,17 @@
+/**
+* 01/29/2018
+* CSC 153
+* Group 1
+* Show Heads or tails and exits program
+*/
+
+Start
+Display three buttons "Show Heads" "Show Tails" "Exit"
+Click "Show Heads"
+Show Heads picture box
+Click "Show Tails"
+Hide Heads picture box
+Show Tails picture box
+Click Exit
+Window closes
+End

@@ -1,0 +1,9 @@
+Gabriela Canjura
+M1HW1
+Pseudocode
+
+Start
+Display 2 labels and three buttons
+click button
+translated word appears 
+Stop
