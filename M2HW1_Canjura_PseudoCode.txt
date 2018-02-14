@@ -1,0 +1,14 @@
+/**
+* 02/12/2018
+* CSC 153
+* Gabriela Canjura
+* Formats a name entered 6 different ways, clears and exits 
+*/
+
+Start
+	Displays Menu
+	Receives User Input
+	Click button
+	Displays output in desired format 
+	Clears
+Stop
