@@ -1,0 +1,18 @@
+/**
+* 02/26/2018
+* CSC 153
+* Gabriela Canjura
+* converts intigers 1-10 to roman numerals using switch decision making structure
+*/
+
+Start
+	display menu
+	receive input from user
+	try to parse input to intiger
+	if input is invalid display message box with error message	
+	if input is valid display roman numeral 
+Stop
+	
+	
+	
+
