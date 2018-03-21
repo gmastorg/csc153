@@ -1,0 +1,13 @@
+/**
+* 03/19/2018
+* CSC 153
+* Gabriela Canjura
+* calculates population growth
+*/
+
+Start
+	displays menu
+	receives user input
+		while loop calculates the growth
+	diplays output in list
+End
