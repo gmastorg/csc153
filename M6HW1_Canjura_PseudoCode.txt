@@ -1,0 +1,20 @@
+/**
+* 04/20/2018
+* CSC 153
+* Gabriela Canjura
+* calculates distance of a falling object
+*/
+
+Start
+	Display Form
+	Receive Input
+	Call Method to Validate Input
+		Collects User Input
+		If Statement for Parsing Input
+			No- Displays error message
+			Yes - Calls Method to Calculate Falling Distance 
+			      passes time variable
+					Calculates Distance 
+					Displays Result
+	Clear
+End
