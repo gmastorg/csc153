@@ -1,0 +1,31 @@
+/**
+* 05/11/2018
+* CSC 153
+* Gabriela Canjura
+* Has user select a dorm and a meal plan then gives them the total
+* in another  form. 
+*/
+
+Start
+	Display Form
+	Receive Input (defaults to Allen Hall and 7 week meal plan)
+	Calls get dorm cost method
+		If Radio Button checked
+			Add amount to total
+			returns total
+	Calls get meal plan cost checked
+		If Radio Button checked
+			Add amount to total
+			returns total
+	Calls get dorm method
+		If Radio Button checked
+			assigns dorm name to dorm variable
+			returns dorm
+	Calls get meal plan method
+		If Radio Button checked
+			assigns meal plan name to meal plan variable
+			returnd meal plan
+	Calls total form and displays it
+	Displays output in total form
+End
+	
